@@ -273,3 +273,8 @@ footer {
     background-color: rgba(0,0,0,0.2);
     padding:20px;
 }
+
+#portf{
+    background-color:rgba(255,255,255,0.5);
+    color:black;
+}
